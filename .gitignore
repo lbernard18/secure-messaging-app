@@ -7,3 +7,6 @@ node_modules/
 
 # Database
 data/app.db
+
+# Environment variables
+.env
